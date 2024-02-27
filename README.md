@@ -12,3 +12,11 @@
 >
     >> When Geek Meets Serial Killer (2015)
         >>> Crime,Comedy
+>
+>
+    >> Poor Things (2023)
+        >>> Science Fiction,Romance,Comedy
+>
+>
+    >> Monster aka Kaibutsu (2023)
+        >>> Drama
