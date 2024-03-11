@@ -20,3 +20,7 @@
 >
     >> Monster aka Kaibutsu (2023)
         >>> Drama
+>
+>
+    >> Malignant (2021)
+        >>> Horror/Crime
